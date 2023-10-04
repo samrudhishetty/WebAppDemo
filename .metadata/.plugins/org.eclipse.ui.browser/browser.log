@@ -1,0 +1,17 @@
+
+Aug 21, 2023 15:31:47.895 NEW SESSION
+Aug 21, 2023 15:31:47.895 [58472:33404:0821/153147.893:ERROR:device_event_log_impl.cc(222)] [15:31:47.893] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 21, 2023 15:32:12.903 [65372:65056:0821/153212.902:ERROR:device_event_log_impl.cc(222)] [15:32:12.902] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 21, 2023 16:17:17.22 [65372:60216:0821/161717.021:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 16:30:09.658 [65372:60216:0821/163009.657:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 21, 2023 16:31:14.406 [65372:65056:0821/163114.404:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Aug 21, 2023 16:57:12.322 [65372:60216:0821/165712.321:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 21, 2023 16:57:12.397 [65372:60216:0821/165712.396:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Aug 22, 2023 09:34:39.316 NEW SESSION
+Aug 22, 2023 09:34:39.316 [66496:65140:0822/093439.314:ERROR:device_event_log_impl.cc(222)] [09:34:39.314] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Aug 22, 2023 10:07:11.17 [66496:69124:0822/100711.016:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for hrms.mindcraft.in failed:
+Aug 22, 2023 10:07:11.19 ----- Certificate i=0 (CN=WIN-JS28GL3HKFI) -----
+Aug 22, 2023 10:07:11.20 ERROR: No matching issuer found
+Aug 22, 2023 10:07:11.21 
+Aug 22, 2023 10:07:11.22 
